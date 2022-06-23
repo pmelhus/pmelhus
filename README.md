@@ -2,7 +2,7 @@
 
 # Welcome!
 
-## I'm a full-stack software engineer with a background in music. I love problem solving and creating things! 
+### I'm a full-stack software engineer with a background in music. I love problem solving and creating things! 
 
 ## Activity
 [![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmelhus&count_private=true&show_icons=true&theme=radical)](https://github.com/pmelhus/github-readme-stats)
