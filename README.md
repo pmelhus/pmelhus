@@ -37,7 +37,7 @@
 
 # Contact
 LinkedIn - [Paul-Eirik Melhus](https://www.linkedin.com/in/paulmelhus) <br />
-Email - pmelhusgmail.com  
+Email - pmelhus@gmail.com  
 Discord - Paul Melhus#1991
 
 Always open to have conversation and meet new people! Thanks for taking a look at my profile.
