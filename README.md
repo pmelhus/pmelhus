@@ -4,9 +4,6 @@
 
 ### I'm a full-stack software engineer with a background in music. I love problem solving and creating things! 
 
-## Activity
-[![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmelhus&count_private=true&show_icons=true&theme=radical)](https://github.com/pmelhus/github-readme-stats)
-
 ## My languages and tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
