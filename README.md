@@ -1,4 +1,4 @@
-# Hi, I'm Paul-Eirik 👋
+# Hi, I'm Paul-Eirik 💻 🎷
 
 I'm a software engineer at **QA Wolf**, working primarily on backend systems, distributed infrastructure, integrations, and applied AI.
 
