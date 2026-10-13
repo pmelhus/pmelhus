@@ -23,7 +23,7 @@ I work primarily with **TypeScript, Node.js, PostgreSQL, Redis, and React**.
 
 Across music, teaching, sales, and engineering, I've found that I'm happiest when I'm learning something new, wrestling with a complicated problem, or building something useful alongside other people.
 
-Most of my recent production engineering work lives in private company repositories, but I use GitHub to share personal projects and technical explorations.
+Most of my recent engineering work has been in private repositories at QA Wolf, where I've focused on building and maintaining production systems.
 
 I'm always happy to connect with other engineers, builders, musicians, or anyone working on interesting problems.
 
