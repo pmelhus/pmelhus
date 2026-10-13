@@ -1,16 +1,30 @@
+# Hi, I'm Paul-Eirik 👋
 
-# Paul-Eirik Melhus
+I'm a software engineer at **QA Wolf**, working primarily on backend systems, distributed infrastructure, integrations, and applied AI.
 
-**Software Engineer | Backend Systems, GTM Infrastructure & AI Automation**
+I came to software engineering by way of music.
 
-I'm a Senior Automation Engineer at QA Wolf, where I design and build production systems using TypeScript, Node.js, PostgreSQL, Redis, and modern AI tooling.
+Before writing production code, I spent more than 18 years as a professional saxophonist, composer, and educator. That journey took me from concert halls and festivals around the world to busking on the streets of Boston for tips.
 
-My work spans distributed messaging infrastructure, event-driven processing, Salesforce integrations, data enrichment, AI-assisted research and scoring, and database performance optimization.
+It might seem like an unusual transition, but much of what drew me to music is what I enjoy about engineering: experimenting, building things, collaborating with people who think differently, and refining something until it finally clicks.
 
-I enjoy solving problems where engineering reliability, data quality, and real business needs intersect.
+### What I'm working on
 
-Most of my recent production engineering work lives in private company repositories. This GitHub profile contains selected public projects and technical explorations.
+At QA Wolf, I've grown from QA Engineer to QA Lead, Automation Engineer, and now Senior Automation Engineer. My work has expanded into designing and building production systems, including:
 
-**Technologies:** TypeScript · Node.js · PostgreSQL · Redis · BullMQ · React · Salesforce · AI/LLM integrations
+- **Backend & distributed systems:** Event-driven processing, background workers, real-time messaging, and production reliability.
+- **Data infrastructure:** PostgreSQL, Redis, database performance optimization, schema migrations, and semantic search with pgvector.
+- **Applied AI:** LLM-powered research, classification, retrieval, evaluation, and automation workflows.
+- **Integrations & GTM systems:** Salesforce, enrichment pipelines, scoring systems, and third-party APIs.
 
-[LinkedIn](https://www.linkedin.com/in/paulmelhus)
+I work primarily with **TypeScript, Node.js, PostgreSQL, Redis, and React**.
+
+### A little more about me
+
+Across music, teaching, sales, and engineering, I've found that I'm happiest when I'm learning something new, wrestling with a complicated problem, or building something useful alongside other people.
+
+Most of my recent production engineering work lives in private company repositories, but I use GitHub to share personal projects and technical explorations.
+
+I'm always happy to connect with other engineers, builders, musicians, or anyone working on interesting problems.
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/paulmelhus)**
